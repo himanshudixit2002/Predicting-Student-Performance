@@ -1,0 +1,11 @@
+[ 2024-09-12 11:14:59,913 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-12 11:14:59,920 ] 96 werkzeug - INFO -  * Debugger PIN: 825-144-182
+[ 2024-09-12 11:15:28,416 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:28] "GET / HTTP/1.1" 200 -
+[ 2024-09-12 11:15:28,492 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-12 11:15:39,142 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:39] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-12 11:15:39,238 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:39] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-09-12 11:15:41,924 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:41] "GET / HTTP/1.1" 200 -
+[ 2024-09-12 11:15:41,972 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-09-12 11:15:43,378 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:43] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-09-12 11:15:43,456 ] 96 werkzeug - INFO - 127.0.0.1 - - [12/Sep/2024 11:15:43] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-09-12 11:16:10,359 ] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\sonu kumar yadav\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\sklearn\\base.py', reloading
